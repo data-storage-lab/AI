@@ -7,6 +7,14 @@
 ​
 - LoRA: Low-Rank Adaptation of Large Language Models - https://arxiv.org/abs/2106.09685
 
+- SysLLMatic: Large Language Models are Software System Optimizers - https://arxiv.org/pdf/2506.01249
+
+- DB‑GPT: Large Language Model Meets Database - https://link.springer.com/content/pdf/10.1007/s41019-023-00235-6.pdf?utm_source=consensus
+
+- Language Models for Code Optimization: Survey, Challenges and Future Directions - https://arxiv.org/pdf/2501.01277
+
+- Large Language Models for Software Engineering: A Systematic Literature Review - https://dl.acm.org/doi/pdf/10.1145/3695988
+  
 # AI Agents
 
 - An In-depth Survey of Large Language Model-based Artificial Intelligence Agents - https://arxiv.org/pdf/2309.14365
