@@ -21,7 +21,7 @@
 
 - Evaluating Large Language Models in Class-Level Code Generation - https://dl.acm.org/doi/10.1145/3597503.3639219
 
-- Evaluating Large Language Models for Real-World Vulnerability Repair in C/C++ Code - https://dl.acm.org/doi/10.1145/3597503.3639219
+- Evaluating Large Language Models for Real-World Vulnerability Repair in C/C++ Code - https://dl.acm.org/doi/pdf/10.1145/3643651.3659892
   
 - Exploring the Capabilities of LLMs for Code Change Related Tasks - https://arxiv.org/pdf/2407.02824
 
