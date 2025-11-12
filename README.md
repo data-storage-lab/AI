@@ -14,6 +14,27 @@
 - Language Models for Code Optimization: Survey, Challenges and Future Directions - https://arxiv.org/pdf/2501.01277
 
 - Large Language Models for Software Engineering: A Systematic Literature Review - https://dl.acm.org/doi/pdf/10.1145/3695988
+
+- MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration - https://arxiv.org/pdf/2503.14340
+
+- An Empirical Study on the Potential of LLMs in Automated Software Refactoring - https://arxiv.org/pdf/2411.04444
+
+- Evaluating Large Language Models in Class-Level Code Generation - https://dl.acm.org/doi/10.1145/3597503.3639219
+
+- Evaluating Large Language Models for Real-World Vulnerability Repair in C/C++ Code - https://dl.acm.org/doi/10.1145/3597503.3639219
+  
+- Exploring the Capabilities of LLMs for Code Change Related Tasks - https://arxiv.org/pdf/2407.02824
+
+- CODEMENV: Benchmarking Large Language Models on Code Migration - https://arxiv.org/abs/2506.00894
+
+- Large Language Model-Aware In-Context Learning for Code Generation - https://dl.acm.org/doi/10.1145/3715908
+
+- A Survey on Large Language Models for Code Generation - https://arxiv.org/pdf/2406.00515
+
+- Large Language Models for Software Engineering: Survey and Open Problems - https://arxiv.org/pdf/2310.03533
+
+- Automatically Fixing Dependency Breaking Changes - https://dl.acm.org/doi/10.1145/3729366
+
   
 # AI Agents
 
