@@ -35,6 +35,10 @@
 
 - Automatically Fixing Dependency Breaking Changes - https://dl.acm.org/doi/10.1145/3729366
 
+- Should AI Optimize Your Code? A Comparative Study of Current Large Language Models Versus Classical Optimizing Compilers - https://arxiv.org/abs/2406.12146
+
+- Evaluating Large Language Models for Real-World Vulnerability Repair in C/C++ Code - https://dl.acm.org/doi/10.1145/3643651.3659892
+
   
 # AI Agents
 
