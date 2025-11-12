@@ -9,7 +9,7 @@
 
 - SysLLMatic: Large Language Models are Software System Optimizers - https://arxiv.org/pdf/2506.01249
 
-- DB‑GPT: Large Language Model Meets Database - https://link.springer.com/content/pdf/10.1007/s41019-023-00235-6.pdf?utm_source=consensus
+- DB‑GPT: Large Language Model Meets Database - https://link.springer.com/content/pdf/10.1007/s41019-023-00235-6.pdf
 
 - Language Models for Code Optimization: Survey, Challenges and Future Directions - https://arxiv.org/pdf/2501.01277
 
